@@ -45,7 +45,7 @@
     "url-loader": "^0.5.8",
     "webpack": "^2.2.1",
     "webpack-bundle-analyzer": "^2.3.1",
-    "webpack-dashboard": "^0.3.0",
+    "webpack-dashboard": "^3.3.7",
     "webpack-dev-server": "^2.3.0"
   },
   "dependencies": {
